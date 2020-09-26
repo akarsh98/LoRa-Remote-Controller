@@ -1,6 +1,6 @@
 # LoRa Based Remote Controller | Universal Remote Controller
 
-Video Link:[https://youtu.be/b2fUYxnji_g](https://youtu.be/b2fUYxnji_g)
+Video Link: [https://youtu.be/b2fUYxnji_g](https://youtu.be/b2fUYxnji_g)
 
 ![alt text](https://github.com/akarsh98/LoRa-Remote-Controller/blob/master/LoRa%20Remote/4.JPG)
 
